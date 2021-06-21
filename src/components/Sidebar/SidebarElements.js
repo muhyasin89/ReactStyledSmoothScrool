@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { FaTimes } from 'react-icons/fa';
 
-export const SideBarContainer = styled.aside`
+export const SidebarContainer = styled.aside`
     position: fixed;
     z-index: 999;
     width: 100%;
