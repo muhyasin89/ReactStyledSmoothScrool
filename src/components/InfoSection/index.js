@@ -5,7 +5,7 @@ import { InfoContainer, InfoWrapper, InfoRow, Column1, TextWrapper, TopLine, Hea
 const InfoSection = () => {
     return (
         <>
-            <InfoContainer id={id}>
+            <InfoContainer>
                 <InfoWrapper>
                     <InfoRow>
                         <Column1>
